@@ -1,5 +1,5 @@
 
-Here's an updated version with some changes to the emojis and slight tweaks to the content:
+
 
 Nike E-Commerce Store 🛍️👟
 Project Purpose 🌟

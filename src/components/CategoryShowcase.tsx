@@ -1,3 +1,4 @@
+//src\components\CategoryShowcase.tsx
 import { categories } from "@/constant/categoryShowcase"
 import Image from "next/image"
 import Link from "next/link"

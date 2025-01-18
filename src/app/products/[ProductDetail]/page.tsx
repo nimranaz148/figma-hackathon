@@ -1,3 +1,4 @@
+//src\app\products\[ProductDetail]\page.tsx
 import { Button } from "@/components/ui/button"
 import { ShoppingCart } from 'lucide-react'
 import Image from 'next/image'

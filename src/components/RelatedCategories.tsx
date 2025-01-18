@@ -1,3 +1,4 @@
+//src\components\RelatedCategories.tsx
 export default function RelatedCategories() {
   const categories = [
     "Best Selling Products",

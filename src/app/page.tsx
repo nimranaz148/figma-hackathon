@@ -6,8 +6,12 @@ import GearUp from "@/components/GearUp";
 import HelloNikeApp from "@/components/HelloNikeApp";
 import Hero from "@/components/Hero";
 import Navigation from "@/components/Navigation";
+import { fetchData } from "@/script/importData";
 
-export default function Home() {
+export  default async function Home() {
+
+
+  
   return (
     <div className="mt-[99px]">
       <HelloNikeApp/>

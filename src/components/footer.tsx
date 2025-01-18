@@ -1,3 +1,4 @@
+//src\components\footer.tsx
 import { FaTwitter } from "react-icons/fa";
 import { FaFacebookF } from "react-icons/fa";
 import { TfiYoutube } from "react-icons/tfi";

@@ -1,3 +1,4 @@
+//src\app\products\page.tsx
 import FilterHeader from '@/components/FilterHeader'
 import FilterSidebar from '@/components/FilterSidebar'
 import ProductsCards from '@/components/ProductsCards'

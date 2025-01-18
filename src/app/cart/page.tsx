@@ -1,3 +1,4 @@
+//src\app\cart\page.tsx
 import Image from "next/image"
 import { Heart, Trash2, ChevronLeft, ChevronRight } from 'lucide-react'
 import { Button } from "@/components/ui/button"

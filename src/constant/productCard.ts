@@ -1,3 +1,4 @@
+//src\constant\productCard.ts
 export interface Product {
   id: number
   name: string

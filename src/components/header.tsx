@@ -1,3 +1,4 @@
+//src\components\header.tsx
 import { Menu, Search, Heart, ShoppingBag } from 'lucide-react'
 import { Button } from "@/components/ui/button"
 import {

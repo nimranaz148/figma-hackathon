@@ -1,5 +1,6 @@
-
-  export const categories = [
+//src\constant\categoryShowcase.ts
+ 
+ export const categories = [
     {
       name: "Men's",
       image: "/home/card10.png",

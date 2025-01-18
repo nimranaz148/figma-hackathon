@@ -1,3 +1,4 @@
+//src\app\checkout\page.tsx
 import * as React from "react"
 import { Card } from "@/components/ui/card"
 import { Label } from "@/components/ui/label"

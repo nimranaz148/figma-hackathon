@@ -1,3 +1,4 @@
+//src\components\GearUp.tsx
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 import { ChevronLeft, ChevronRight } from 'lucide-react'
